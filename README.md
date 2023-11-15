@@ -1,0 +1,1 @@
+All tasks from cs50 python intro course 
